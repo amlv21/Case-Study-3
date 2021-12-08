@@ -19,3 +19,4 @@ following amount for advertisement.
         Add4(in Thousands) 298 
         
         Add5(in Thousands) 320
+[Add_sales_data_2018.csv](https://github.com/amlv21/Case-Study-3/files/7673819/Add_sales_data_2018.csv)
